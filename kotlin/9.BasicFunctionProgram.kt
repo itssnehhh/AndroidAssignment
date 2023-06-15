@@ -2,6 +2,7 @@
 
 fun Start (): String{
     return "OK"
-}-+++++++++++++++++++++++++++5+*un main(){
+}
+fun main(){
     print(Start())
  }
