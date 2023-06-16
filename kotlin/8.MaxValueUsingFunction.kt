@@ -1,4 +1,4 @@
-\//WAP to find max value using function as express.
+//WAP to find max value using function as express.
 fun Max(num1 : Int , num2 :Int):Int
 {
     return if(num1>num2)num1
@@ -12,6 +12,6 @@ fun main(){
     println("Enter the number 2 :-")
     var num2 = readLine()!!.toInt()
 
-    \\\\
-    println("Maximum number from given number is = ${Max(num1)}")
+ 
+    println("Maximum number from given number is = ${Max(num1,num2)}")
 }
